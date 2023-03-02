@@ -1,0 +1,37 @@
+body
+{
+    text-align: center;
+}
+.container{
+  background-color: lightpurple;  
+}
+#app {
+    background-color: rgb(117, 131, 240);
+}
+
+#myCarousel
+{
+    background-color: rgb(133, 91, 187);
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+a{
+    color: aliceblue;
+    font-size: 1.5em;
+}
+#codepen{
+    margin-top: 15px;
+    background-color: rgb(210, 127, 255);
+    font-family: sans-serif;
+}
